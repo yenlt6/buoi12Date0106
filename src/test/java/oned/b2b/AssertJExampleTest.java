@@ -53,4 +53,13 @@ public class AssertJExampleTest {
 
     }
 
+    @Test
+    public void testEmail() {
+        String email ="yenlt6@onemount.com";
+                assertThat(email).contains("@")
+                        .doesNotContain("#$%")
+                        .contains(".");
+
+    }
+
 }
