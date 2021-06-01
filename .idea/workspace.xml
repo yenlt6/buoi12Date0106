@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="354ca023-ac7c-4e29-8e99-a797ca3815c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/buoi12Date0106.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/oned/b2b/AssertJExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/oned/b2b/AssertJExampleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/oned/b2b/AssertJExampleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/oned/b2b/AssertJExampleTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AssertJExampleTest.testEmail">
+  <component name="RunManager" selected="JUnit.AssertJExampleTest.testEmail2">
     <configuration name="AssertJExampleTest.testEmail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="buoi12Date0106" />
       <extension name="coverage">
@@ -71,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AssertJExampleTest.testMethodInt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MavenprojectB10" />
+    <configuration name="AssertJExampleTest.testEmail2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="buoi12Date0106" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="oned.b2b.*" />
@@ -81,7 +79,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="oned.b2b" />
       <option name="MAIN_CLASS_NAME" value="oned.b2b.AssertJExampleTest" />
-      <option name="METHOD_NAME" value="testMethodInt" />
+      <option name="METHOD_NAME" value="testEmail2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -137,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AssertJExampleTest.testEmail2" />
         <item itemvalue="JUnit.AssertJExampleTest.testEmail" />
         <item itemvalue="JUnit.AssertJExampleTest.testNumber" />
         <item itemvalue="JUnit.AssertJExampleTest.testPhoneNumber" />
         <item itemvalue="JUnit.AssertJExampleTest.testString" />
-        <item itemvalue="JUnit.AssertJExampleTest.testMethodInt" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +166,19 @@
       <option name="presentableId" value="Default" />
       <updated>1622255074817</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1622515912465</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1622515912465</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="4392" y="179" key="#Project_Structure" timestamp="1622510386594">
@@ -179,22 +189,26 @@
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
     <state x="4254" y="176" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622514199647" />
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1622515261471">
+    <state x="4407" y="115" key="CommitChangelistDialog2" timestamp="1622515907913">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622515261471" />
-    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1622515261471">
+    <state x="4407" y="115" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622515907913" />
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom" timestamp="1622516295465">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622515261471" />
-    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1622515261470">
+    <state width="1877" height="274" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622516295465" />
+    <state width="1877" height="274" key="GridCell.Tab.0.center" timestamp="1622516295465">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622515261470" />
-    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1622515261471">
+    <state width="1877" height="274" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622516295465" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left" timestamp="1622516295465">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622515261471" />
+    <state width="1877" height="274" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622516295465" />
+    <state width="1877" height="274" key="GridCell.Tab.0.right" timestamp="1622516295465">
+      <screen x="3840" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="274" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040/3840.0.1920.1040@3840.0.1920.1040" timestamp="1622516295465" />
     <state x="4571" y="239" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1622511342928">
       <screen x="3840" y="0" width="1920" height="1040" />
     </state>

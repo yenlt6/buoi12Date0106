@@ -57,9 +57,13 @@ public class AssertJExampleTest {
     public void testEmail() {
         String email ="yenlt6@onemount.com";
                 assertThat(email).contains("@")
-                        .doesNotContain("#$%")
+                        .doesNotContain("#$%^&*()!~+?:{}[]")
                         .contains(".");
-
     }
 
+    @Test
+    public void testEmail2() {
+        String email = "hien@onemount.com";
+        assertThat(email).containsPattern("^[a-zA-Z][\\w-]+@([\\w]+\\.[\\w]+|[\\w]+\\.[\\w]{2,}\\.[\\w]{2,})$");
+    }
 }
