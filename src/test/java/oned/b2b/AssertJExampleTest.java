@@ -64,6 +64,7 @@ public class AssertJExampleTest {
     @Test
     public void testEmail2() {
         String email = "hien@onemount.com";
-        assertThat(email).containsPattern("^[a-zA-Z][\\w-]+@([\\w]+\\.[\\w]+|[\\w]+\\.[\\w]{2,}\\.[\\w]{2,})$");
+        assertThat(email).containsPattern("^[a-zA-Z][\\w-]+@([\\w]+\\.[\\w]+|[\\w]+\\.[\\w]{2,}\\.[\\w]{2,})$")
+                .containsPattern("^[a-z][a-z0-9_\\.]{5,32}@[a-z0-9]{2,}(\\.[a-z0-9]{2,4}){1,2}$");
     }
 }
